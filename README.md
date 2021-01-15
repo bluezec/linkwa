@@ -7,6 +7,8 @@
 
 
 <h2 align="center">CONTACT ME</h2>
+
+
 [![Github](https://img.shields.io/badge/Github-Ikuti-green?style=for-the-badge&logo=github)](https://github.com/bluezec)
 [![Facebook](https://img.shields.io/badge/Facebook-Ikuti-green?style=for-the-badge&logo=facebook)](https://m.facebook.com/Bluezec11)
 [![WhatsApp](https://img.shields.io/badge/whatsapp-Hubungi-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=%2B6285213021932&text&app_absent=0)
