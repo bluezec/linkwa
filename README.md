@@ -7,9 +7,9 @@
 
 
 <h2 align="center">CONTACT WITH ME</h2>
-<h3 align="center">WhatsApp : 085213021932</h3>
-<h3 align="center">Facebook : Bluezec</h3>
-<h3 align="center">Github   : github.com/bluezec</h3>
-<h3 align="center">Email    : thereal.bluezec@gmail.com</h3>
+## MY SOCIAL MEDIA
+[![Github](https://img.shields.io/badge/Github-Ikuti-green?style=for-the-badge&logo=github)](https://github.com/bluezec)
+[![Facebook](https://img.shields.io/badge/Facebook-Ikuti-green?style=for-the-badge&logo=facebook)](https://m.facebook.com/Bluezec11)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-Hubungi-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=%2B6285213021932&text&app_absent=0)
 
 <h2 align="center">THANKS FOR YOU</h2>
