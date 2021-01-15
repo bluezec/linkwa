@@ -1,7 +1,7 @@
 <h1 align="center">BlueZec</h1> 
 <img src="https://github.com/bluezec/BlueZec/blob/main/KaPJ.gif" width=70% height=auto>
 
-#INTRO</h1
+#INTRO
 <h3 align="center">Pergi sebagai Pahlawan</h3>
 <h3 align="center">Pulang sebagai Tahanan</h3>
 
